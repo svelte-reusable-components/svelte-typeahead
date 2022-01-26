@@ -14,12 +14,12 @@ To then use it, import the raw Typeaheadsmodule.svelte file as shown in the usag
 
 After you initiated a snel project and added the code shown below, you are able to see in when running the project with "trex run start".
 
-## Usage
+## Usage Example
 
 Import the component and set list of possible Results.
 
 ```javascript
- import Typeahead from "https://raw.githubusercontent.com/svelte-reusable-components/svelte-typeahead/main/Typeaheadmodule.svelte"
+ import Typeahead from "https://deno.land/x/svelte_typeahead/Typeaheadmodule.svelte"
  
  let possibleResults = ["Result1","Result2","Result3"];
 ```
@@ -29,6 +29,7 @@ Use the component in your code. Set randomButton equal to {true} or {false} depe
 ```html
 <Typeahead possibleResults={possibleResults} randomButton={true} />
 ```
+
 ## CSS
 - `randombutton` class of the Button
 - `searchfield` id of the input field
