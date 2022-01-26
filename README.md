@@ -6,7 +6,7 @@ A svelte component to implement a search box with typeahead (and an optional ran
 Import the component and set list of possible Results.
 
 ```javascript
- import Typeahead from 'svelte-typeahead'
+ import Typeahead from "https://raw.githubusercontent.com/svelte-reusable-components/svelte-typeahead/main/Typeaheadmodule.svelte"
  
  let possibleResults = ["Result1","Result2","Result3"];
 ```
