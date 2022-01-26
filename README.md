@@ -1,5 +1,5 @@
 # svelte-typeahead
-The typeahead component implements a search box with typeahead (and an optional random button) for snel projects.
+The typeahead component implements a search box with typeahead (and an optional random button) for snel projects. (Snel is a cybernetical compiler for svelte applications in deno)
 
 A visual example is given in the svelte REPL: https://svelte.dev/repl/6f381dc0e66242288a1ba69d059d105b?version=3.46.2
 
