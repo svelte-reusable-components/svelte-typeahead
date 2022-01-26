@@ -14,6 +14,8 @@ To then use it, import the link "https://deno.land/x/svelte_typeahead/Typeaheadm
 
 After you initiated a snel project and added the code shown below, you are able to see in when running the project with "trex run start".
 
+An example of the usage is shown in the exampleclientapp, which is a snel project inted to show the functionality of the component.
+
 ## Usage Example
 
 Import the component and set list of possible Results.
