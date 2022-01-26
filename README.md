@@ -10,7 +10,7 @@ A visual example to play around with is also given in the svelte REPL: https://s
 
 In case you have not created a snel project before, head to https://deno.land/x/snel@v0.6.0 and follow the steps to create one.
 
-To then use it, import the raw Typeaheadsmodule.svelte file as shown in the usage example.
+To then use it, import the link "https://deno.land/x/svelte_typeahead/Typeaheadmodule.svelte" as shown in the usage example.
 
 After you initiated a snel project and added the code shown below, you are able to see in when running the project with "trex run start".
 
