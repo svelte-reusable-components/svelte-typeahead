@@ -16,3 +16,8 @@ Use the component in your code. Set randomButton equal to {true} or {false} depe
 ```html
 <Typeahead possibleResults={possibleResults} randomButton={true} />
 ```
+## CSS
+- `randombutton` class of the Button
+- `searchfield` id of the input field
+- `typeahead-object-list` class of the entire typeahead list
+- `typeahead-objects` class of the listitems
